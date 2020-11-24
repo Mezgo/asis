@@ -35,9 +35,19 @@ ion-menu-button {
       }
     }
     .body{
-      img{
-        
+      
+      
+      ion-col{
+
+        img{
+          border-radius: 4px;
+        }
       }
+
+      /* ion-icon{
+        border-radius: 4px;
+        background: rgb(125,200,85);
+      } */
       .content{
         text-align: justify;
       }

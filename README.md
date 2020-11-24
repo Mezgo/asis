@@ -1,4 +1,4 @@
-# Taller en clase
+ # Taller en clase
 
 1. Crearemos un servicio de noticias que centralice todas las noticias del app
 2. En el home existirán secciones de noticias con un título, un ícono antes del título (opcional) y multiples noticias asociadas a la sección, cada noticia cuenta con una imágen, un texto preview y las categorías asociadas a la misma.
